@@ -17,6 +17,12 @@ body {
   border-right: 1px solid #181f26!important;
 }
 
+#page-content-wrapper nav.navbar {
+  overflow: hidden;
+  height: 57px;
+  line-height: 57px;
+}
+
 #page-content-wrapper .border-bottom {
   border-bottom: 1px solid #181f26!important;
 }
