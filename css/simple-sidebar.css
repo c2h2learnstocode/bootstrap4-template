@@ -45,6 +45,10 @@ body {
   font-size: 1.2rem;
 }
 
+.col {
+  margin-bottom: 5px;
+}
+
 #sidebar-wrapper .list-group {
   width: 6rem;
 }
